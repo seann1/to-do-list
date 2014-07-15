@@ -1,0 +1,44 @@
+#show-contact {
+
+  background-color: #EB9191 ;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+  color: #0088cc;
+}
+
+.col-md.6 {
+  margin: 20px;
+}
+
+#contacts {
+  font-size: 30px;
+  color: #915B14;
+}
+.form-group {
+  width: 300px;
+  border-style: solid;
+  border: 10px;
+  border-color: black;
+  border-radius: 20px;
+}
+
+.form-control {
+  border-style: solid;
+  border: 5px;
+  border-color: black;
+  border-radius: 20px;
+  background-color: #C5FAF4;
+}
+
+#show-contact {
+  text-align: center;
+}
